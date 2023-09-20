@@ -13,3 +13,20 @@ body {
     overflow: hidden;
     overflow-x: hidden;
 }
+
+@media (max-width: 710px) {
+    body {
+        background-color: black;
+        height: 100vh;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        overflow: hidden;
+        overflow-x: hidden;
+    }
+    canvas {
+        width: 100%;
+    }
+}
