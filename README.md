@@ -1,7 +1,7 @@
 # SonicBoom
 Signal Processing and audio frequency visualization using FFT (Fast Fourier Transform)
 # Screenshots
-![fractal-tree](https://drive.google.com/uc?export=view&id=1bXI33cOnaV1ywTTwqCfCAAMHj8lDthNn)
+![fft-demo](https://drive.google.com/uc?export=view&id=1bXI33cOnaV1ywTTwqCfCAAMHj8lDthNn)
 
 # See in action
 
